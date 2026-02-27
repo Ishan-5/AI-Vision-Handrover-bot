@@ -1,4 +1,5 @@
 # AI Vision HandRover Bot
+![Robot Image](bot.jpg)
 
 AI Vision HandRover Bot is a real-time gesture-controlled robotic system that integrates computer vision, wireless communication, and embedded motor control. The system detects hand gestures using OpenCV and MediaPipe and wirelessly controls an ESP8266-based robot via UDP communication.
 
